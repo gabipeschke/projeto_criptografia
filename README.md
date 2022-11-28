@@ -4,7 +4,9 @@ Projeto de criptografia da cifra monoalfabética em Python
 ## Como executar:
 
 1- Baixe o projeto de criptografia
+
 2- Abra o terminal e entre na pasta do projeto de criptografia
+
 3- Execute o comando:
 #### python3 criptografia.py nome_arquivo.txt chave comando
   a) nome_arquivo.txt: Este é o nome do arquivo que você quer criptografar ou descriptografar. É necessário este arquivo estar dentro da pasta do projeto de criptografia (na mesma pasta de criptografia.py). Caso o scrypt não encontre o arquivo, ocorrerá um erro.
