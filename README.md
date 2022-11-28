@@ -3,9 +3,11 @@ Projeto de criptografia da cifra monoalfabética em Python
 
 ## Como executar:
 
-1- Baixe o projeto de criptografia
+1- Baixe o scrypt de criptografia (criptografia.py) e adicione em uma pasta.
 
-2- Abra o terminal e entre na pasta do projeto de criptografia
+2- Abra o terminal e entre na pasta que foi salva o arquivo criptografia.py
+
+3- Crie um arquivo txt com o conteúdo que deseja criptografar ou descriptografar
 
 3- Execute o comando:
 #### python3 criptografia.py nome_arquivo.txt chave comando
